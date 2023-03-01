@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\bin\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.exe
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\bin\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.deps.json
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\bin\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\bin\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.dll
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\bin\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.pdb
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.dll
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\refint\C# Projeleri 8 Mutlak Kare Alma.dll
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.pdb
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\C# Projeleri 8 Mutlak Kare Alma.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri 8 Mutlak Kare Alma\obj\Debug\net7.0\ref\C# Projeleri 8 Mutlak Kare Alma.dll
